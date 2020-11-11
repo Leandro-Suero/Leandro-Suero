@@ -4,7 +4,7 @@
 
 # Fullstack web developer
 
-This is my personal github repo for testing stuff or codding along with courses and tutorials.
+This is my personal github repo for testing stuff or coding along with courses and tutorials.
 
 ### Toolset
 
